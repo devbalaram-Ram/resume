@@ -1,0 +1,59 @@
+JORDAN ALEXANDER REED
+San Francisco, CA | jordan.reed.ds@gmail.com | linkedin.com/in/jordanreed-ai | github.com/jordanreed-ai
+
+PROFESSIONAL SUMMARY
+Senior Data Scientist with 10 years of experience designing, deploying, and scaling AI/ML solutions across NLP, recommendation systems, forecasting, and deep learning. Expert in Python, SQL, PyTorch, TensorFlow, and Spark, with a track record of productionizing models that improve revenue, reduce risk, and optimize operational efficiency. Proven leader in end-to-end MLOps, including CI/CD, model monitoring, drift detection, and low-latency inference at enterprise scale. Skilled at translating complex machine learning research into business-impacting products in cloud-native environments.
+
+CORE SKILLS
+Machine Learning: Supervised Learning, Unsupervised Learning, Deep Learning, NLP, LLMs, Transformers, Time Series Forecasting, Recommendation Systems, Feature Engineering, A/B Testing, Explainable AI
+Programming: Python, SQL, Scala, R, Bash
+Frameworks & Libraries: PyTorch, TensorFlow, Scikit-learn, XGBoost, Hugging Face Transformers, Keras, MLflow
+Data & Tools: Spark, Databricks, Airflow, Kafka, Snowflake, PostgreSQL, Redis, Docker, Git
+Cloud & MLOps: AWS (SageMaker, EMR, Lambda, S3), GCP (Vertex AI, BigQuery), Kubernetes, CI/CD (GitHub Actions, Jenkins), Model Deployment, Model Monitoring, Drift Detection, REST/gRPC APIs
+
+WORK EXPERIENCE
+
+Principal Data Scientist | NovaCommerce, San Francisco, CA | 2021 - Present
+- Led development of a transformer-based ranking and recommendation platform serving 45M monthly users, increasing click-through rate by 18% and annualized revenue by $24.6M.
+- Built and deployed an LLM-powered customer support triage pipeline that reduced first-response time by 42% and lowered ticket handling costs by $3.1M per year.
+- Architected real-time inference services on Kubernetes with PyTorch and ONNX, reducing p95 prediction latency from 320ms to 74ms while sustaining 12K requests per second.
+- Implemented end-to-end MLOps workflows (MLflow, CI/CD, automated retraining, drift monitoring), cutting model deployment cycle time from 3 weeks to 4 days.
+- Directed cross-functional experimentation strategy and A/B testing for personalization features, improving conversion rate by 11% across web and mobile channels.
+- Mentored a team of 7 data scientists and ML engineers, standardizing model governance practices and improving production model reliability from 96.8% to 99.5% uptime.
+
+Senior Data Scientist | FinOptima Analytics, Seattle, WA | 2017 - 2021
+- Built credit risk ensemble models (gradient boosting + deep neural networks) for 8M+ customer profiles, improving default prediction AUC from 0.81 to 0.92.
+- Designed NLP pipelines for financial document intelligence using BERT-based classifiers, reducing manual underwriting review effort by 58%.
+- Developed fraud detection system with graph features and semi-supervised learning, preventing $9.4M in annual fraud losses.
+- Productionized ML services with Docker, Airflow, and AWS SageMaker, increasing model release frequency by 3.5x and reducing rollback incidents by 37%.
+- Partnered with product and compliance teams to deploy explainable AI dashboards, reducing model validation turnaround by 46% and satisfying regulatory audit requirements.
+
+Data Scientist | Horizon Retail Group, Austin, TX | 2014 - 2017
+- Developed demand forecasting models across 2,300 SKUs using time series and gradient boosting, reducing stockouts by 29% and excess inventory by 21%.
+- Created customer segmentation and propensity models that increased targeted campaign ROI by 34% and lifted repeat purchase rate by 14%.
+- Built recommendation engine using collaborative filtering and matrix factorization, increasing average order value by 9.8%.
+- Automated ETL and feature pipelines with Spark and SQL for 1.2TB daily data processing, reducing data preparation time by 63%.
+- Deployed model performance monitoring and alerting that improved model SLA adherence from 91% to 98%.
+
+KEY PROJECTS
+
+Enterprise LLM Knowledge Assistant (RAG)
+- Designed a retrieval-augmented generation solution using sentence-transformer embeddings, vector search, and prompt orchestration to support 6 internal business units.
+- Improved answer relevance by 31% (human evaluation) and reduced analyst research time by 44%, saving approximately 7,800 hours annually.
+
+Real-Time Dynamic Pricing Engine
+- Built a reinforcement learning and demand elasticity pricing system integrated with streaming features, delivering a 6.7% gross margin improvement.
+- Reduced batch pricing update time from 2 hours to 9 minutes through Spark optimization and low-latency API deployment.
+
+Multilingual Sentiment and Intent Platform
+- Implemented transformer-based NLP models for 9 languages, improving macro-F1 from 0.76 to 0.89 and enabling global market intelligence use cases.
+- Scaled inference to 18M text records per day with distributed processing and autoscaling Kubernetes workloads.
+
+EDUCATION
+Master of Science (M.S.), Data Science | University of Washington
+Bachelor of Science (B.S.), Computer Science | University of Texas at Austin
+
+CERTIFICATIONS
+AWS Certified Machine Learning - Specialty
+Google Professional Machine Learning Engineer
+TensorFlow Developer Certificate
